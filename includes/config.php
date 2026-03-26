@@ -1,7 +1,7 @@
 <?php
 /**
  * Configuration unifiée de l'application de gestion des baux
- * My Invest Immobilier - Système complet
+ * Gestion Location - Système complet
  * Version 2.0
  * 
  * Base de données unique pour:
